@@ -20,7 +20,7 @@ arch:
     - ppc64le
 
 jdk:
-  - openjdk7
+ # - openjdk7
   - openjdk8
   - openjdk11
   - openjdk15
